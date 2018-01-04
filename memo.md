@@ -11,3 +11,5 @@
 [express覚書](https://qiita.com/DialBird/items/4b35622d32d6eae2ebc4)
 
 [Promise](https://qiita.com/progre/items/5666f4a333cc2d032d15)
+
+[js読み物](https://www.webprofessional.jp/category/javascript/)
