@@ -13,3 +13,5 @@
 [Promise](https://qiita.com/progre/items/5666f4a333cc2d032d15)
 
 [js読み物](https://www.webprofessional.jp/category/javascript/)
+
+[Cake](https://qiita.com/uedatakeshi/items/6cc2d7bfd4e314ca7927)
